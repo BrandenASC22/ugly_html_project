@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    color: black;
+    background-color: rgb(107, 235, 3);
+    font-family: Helvetica;
+    border: 10px solid #000000;
+}
+
+img {
+    width: 250px;
+}
+
+body {
+    font-size: 20px;
+}
+
+div {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2, h3 {
+    color: rgb(0, 0, 0);
+}
+
+ul {
+    color: rgb(9, 238, 39);
+    background-color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+p {
+    color: green;
+}
+
+div p {
+    font-size: 300%;
+    font-family: Courier New;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-style: wavy ;
+    
+}
+
+
+
+.special {
+	background-color: black;
+	color: rgb(49, 233, 13);
+}
+
+.big_font {
+    font-size: 250px;
+}
+
